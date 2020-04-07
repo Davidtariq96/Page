@@ -1,99 +1,99 @@
 .container-fluid{
-    background-color:#add8e6;
-    text-align: center;
-    font-family: sans-serif;
+  background-color:#add8e6;
+  text-align: center;
+  font-family: sans-serif;
 }
 .white-container{
-    background-color: white;
-    margin: 5em;
-    width: 29%;
-    align-self: center;
-    margin-left: 26em;
-    margin-bottom: 3em;
-    padding: 1.4em;
-    padding-right: -9em;
-    padding-right: -8em;
-    line-height: 3em;
-    border-top-left-radius: 1em;
-    border-top-right-radius: 1em;
-    border-bottom-right-radius: 1em;
+  background-color: white;
+  margin: 5em;
+  width: 29%;
+  align-self: center;
+  margin-left: 26em;
+  margin-bottom: 3em;
+  padding: 1.4em;
+  padding-right: -9em;
+  padding-right: -8em;
+  line-height: 3em;
+  border-top-left-radius: 1em;
+  border-top-right-radius: 1em;
+  border-bottom-right-radius: 1em;
 }
 .header{
-    color: #0545b3;
-    margin-top: 0.8em;
-    font-size: 1.4em;
-    font-weight: bold;
-    margin-left: 0.8em;
+  color: #0545b3;
+  margin-top: 0.8em;
+  font-size: 1.4em;
+  font-weight: bold;
+  margin-left: 0.8em;
 }
 
 .sub-head{
-    color: grey;
-    margin-top: -3em;
-    font-weight: normal;
-    font-size: 0.9em;
-    margin-left: 1.5em;
+  color: grey;
+  margin-top: -3em;
+  font-weight: normal;
+  font-size: 0.9em;
+  margin-left: 1.5em;
 }
 .label1{
-    display: block;
-    margin-left: -20.2em;
-    margin-bottom: -0.7em;
-    margin-top: -1.8em;
-    font-size: 0.8em;
+  display: block;
+  margin-left: -20.2em;
+  margin-bottom: -0.7em;
+  margin-top: -1.8em;
+  font-size: 0.8em;
 }
 .label2{
-    display: block;
-    margin-left: -18.6em;
-    font-size: 0.8em;
-    margin-bottom: -0.7em;
-    margin-top: -2em;
+  display: block;
+  margin-left: -18.6em;
+  font-size: 0.8em;
+  margin-bottom: -0.7em;
+  margin-top: -2em;
 }
 .label3{
-    display: block;
-    margin-left: -18.4em;
-    font-size: 0.8em;
-    margin-bottom: -0.7em;
-    margin-top: -2em;
+  display: block;
+  margin-left: -18.4em;
+  font-size: 0.8em;
+  margin-bottom: -0.7em;
+  margin-top: -2em;
 }
 .label4{
-    display: block;
-    margin-left: -20.5em;
-    font-size: 0.8em;
-    margin-bottom: -0.7em;
-    margin-top: -2em;
+  display: block;
+  margin-left: -20.5em;
+  font-size: 0.8em;
+  margin-bottom: -0.7em;
+  margin-top: -2em;
 }
 .label5{
-    display: block;
-    margin-left: -6.6em;
-    font-size: 0.8em;
-    margin-bottom: -0.7em;
-    margin-top: -2em;
+  display: block;
+  margin-left: -6.6em;
+  font-size: 0.8em;
+  margin-bottom: -0.7em;
+  margin-top: -2em;
 }
 .label6{
-    display: block;
-    margin-left: -7.5em;
-    font-size: 0.8em;
-    margin-bottom: -0.7em;
-    margin-top: -2em;
+  display: block;
+  margin-left: -7.5em;
+  font-size: 0.8em;
+  margin-bottom: -0.7em;
+  margin-top: -2em;
 }
-.blue-container h3{
-    background-color:#062863;
-    color: white;
-    text-decoration: none;
-    margin: 0.1em 2em 0.1em 1.6em;
-    border-top-left-radius: 0.4em;
-    border-top-right-radius: 0.4em;
-    border-bottom-right-radius: 0.4em;
-    padding-top: 0em;
-    padding-bottom: 0em;
-    margin-top: 2em;
-    margin-bottom: 2.1em;
-    font-size: small;
+.create-account h3{
+  background-color:#062863;
+  color: white;
+  text-decoration: none;
+  margin: 0.1em 2em 0.1em 1.6em;
+  border-top-left-radius: 0.4em;
+  border-top-right-radius: 0.4em;
+  border-bottom-right-radius: 0.4em;
+  padding-top: 0em;
+  padding-bottom: 0em;
+  margin-top: 2em;
+  margin-bottom: 2.1em;
+  font-size: small;
 
 }
 .footer{
-    position: relative;
-    color: white;
-    text-decoration: none;
-    margin-left: -2em;
-    font-size: small;
+  position: relative;
+  color: white;
+  text-decoration: none;
+  margin-left: -2em;
+  font-size: small;
 }
