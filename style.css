@@ -18,6 +18,12 @@
   border-top-right-radius: 1em;
   border-bottom-right-radius: 1em;
 }
+.logo{
+  width: 195px; margin-bottom: -3em;padding-top: 2.3em;margin-left: -2.5em;
+
+}
+
+
 .header{
   color: #0545b3;
   margin-top: 0.8em;
@@ -150,6 +156,11 @@
   padding-right:18.2em ;
   margin-top: 9em;
 }
+.logo{
+  width: 195px; margin-bottom: -3em;padding-top: 2.3em;margin-left: -0.1em;
+
+}
+
 .header{
   color: #0545b3;
   margin-top: -2em;
