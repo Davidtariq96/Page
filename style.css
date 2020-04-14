@@ -2,6 +2,7 @@
   background-color:#add8e6;
   text-align: center;
   font-family: sans-serif;
+  box-sizing: border-box;
 }
 .white-container{
   background-color:white;
@@ -141,23 +142,23 @@
   background-color: #dfecf0;border: white;font-size: 1em;
 }
 
-@media only screen and (max-width: 726px){ 
+@media only screen and (max-width: 1054px){ 
 .container-fluid{
   text-align: center;
   background-color: #add8e6;
 }
 .white-container{
-  width: 11%;
+  width: 95px;
   line-height: 2em;
   font-size: 0.5em;
-  padding: 8em;
-  margin-left: 3em;
-  padding-left: 15em;
-  padding-right:18.2em ;
-  margin-top: 9em;
+  padding: 7em;
+  margin: 0 auto;
+  padding-left: 14.5em;
+  padding-right:11.2em ;
+  margin-top: 2.2em;
 }
 .logo{
-  width: 195px; margin-bottom: -3em;padding-top: 2.3em;margin-left: -0.1em;
+  width: 190px; margin-bottom: 1.5em;padding-top: 2.3em;margin-left: -0.1em;
 
 }
 
@@ -167,7 +168,7 @@
   font-size: 1.8em;
   font-weight: bold;
   margin-left: -7em;
-  margin-right: -9em;
+  margin-right: -8em;
 }
 
 .sub-head{
@@ -176,7 +177,7 @@
   font-weight: normal;
   font-size:1.3em;
   margin-left: -10em;
-  margin-right: -12em;
+  margin-right: -10em;
   
 
 }
@@ -243,28 +244,28 @@
 }
 .label1{
   display: block;
-  margin-left: -13.7em;
+  margin-left: -19em;
   margin-bottom: 0.5em;
   margin-top: 1.7em;
   font-size: 1.5em;
 }
 .label2{
   display: block;
-  margin-left: -11.8em;
+  margin-left: -17.1em;
   margin-bottom: 0.5em;
   margin-top: 1em;
   font-size: 1.5em;
 }
 .label3{
   display: block;
-  margin-left: -11.8em;
+  margin-left: -16.8em;
   margin-bottom: 0.5em;
   margin-top: 1em;
   font-size: 1.5em;
 }
 .label4{
   display: block;
-  margin-left: -13.7em;
+  margin-left: -18.3em;
   margin-bottom: 0.5em;
   margin-top: 1em;
   font-size: 1.5em;
